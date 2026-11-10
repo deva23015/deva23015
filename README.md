@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Devansh%20Amrujkar&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=trying%20my%20best%20not%20to%20larp&descSize=20&descAlignY=58" alt="Devansh Amrujkar banner" width="100%"/>
 
 <a href="https://github.com/deva23015">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=7C5CFF&center=true&vCenter=true&width=640&height=50&lines=Student+@+IIT+Jodhpur;I+build+things+for+the+browser;Codeforces+grinder+%7C+chess+player;Currently+building+margin+%E2%9C%A8" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=7C5CFF&center=true&vCenter=true&width=640&height=50&lines=Student+@+IIT+Jodhpur;I+build+things+for+the+browser;Chess+grinder+%7C+chess+player;Currently+building+margin+%E2%9C%A8" alt="Typing animation" />
 </a>
 
 <br/>
